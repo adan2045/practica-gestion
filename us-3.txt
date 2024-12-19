@@ -1,0 +1,9 @@
+Los dos grandes tipos de requisitos son:
+
+Requisitos Funcionales (RF):
+Describen lo que el sistema debe hacer, sus funciones y comportamientos específicos.
+ejemplo : "el sistema debe permitir a los usuarios iniciar sesion"
+
+Requisitos No Funcionales (RNF):
+Especifican cómo debe operar el sistema, definiendo cualidades o atributos del sistema como seguridad, rendimiento, usabilidad, etc.
+ejemplo " la respuesta del sistema debe ser inferior a 2 segundos."
