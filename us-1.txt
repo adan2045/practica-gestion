@@ -1,0 +1,3 @@
+Como usuario no registrado
+Quiero poder crear una nueva cuenta en el sistema
+Para acceder a las funcionalidades exclusivas para miembros
