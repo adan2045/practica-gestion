@@ -1,0 +1,41 @@
+En Scrum, el desarrollo de un proyecto sigue este flujo:
+
+1 
+Product Owner crea y prioriza el Product Backlog con los requerimientos del proyecto.
+2 
+Sprint Planning:
+
+
+El equipo selecciona items del Product Backlog
+Se crea el Sprint Backlog
+Se define el Sprint Goal
+Duración: típicamente 2-4 semanas
+
+
+Durante el Sprint:
+
+Daily Scrum (15 minutos): El equipo sincroniza actividades
+Desarrollo iterativo del producto
+El Scrum Master elimina impedimentos
+
+
+3 
+Sprint Review:
+
+Demo del producto al final del Sprint
+Feedback de stakeholders
+Product Backlog se actualiza
+
+
+4 
+sprint Retrospective:
+
+Equipo analiza qué funcionó y qué mejorar
+Se planean mejoras para el siguiente Sprint
+
+
+El ciclo se repite hasta completar el proyecto o agotar el presupuesto/tiempo
+
+actores : product owner, scrum master, stakeholders, equipo de desarrollo.
+artefactos: product Backlog, sprint Backlog.
+ceremonias: sprint Planning, Daily, Review, Retrospective.
